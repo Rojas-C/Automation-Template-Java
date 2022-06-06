@@ -1,0 +1,17 @@
+2020-05-20 16:39:45 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-20 16:39:45 INFO  utils.SeleniumDriver : 39 - [initConfiguration] ############################### Launching Scenario execution ###############################
+2020-05-20 16:39:47 INFO  utils.SeleniumDriver : 55 - [initConfiguration] LaunchingEdge
+2020-05-20 16:39:54 INFO  utils.SeleniumDriver : 82 - [openPage] Opening site: https://www.saucedemo.com/
+2020-05-20 16:39:59 INFO  utils.SeleniumDriver : 108 - [waitForPageToLoad] Waiting for page to load
+2020-05-20 16:39:59 INFO  utils.SeleniumDriver : 10 - [type] Typing in an Element: User_Field entered value as: standard_user
+2020-05-20 16:40:00 INFO  utils.SeleniumDriver : 10 - [type] Typing in an Element: Password_Field entered value as: secret_sauce
+2020-05-20 16:40:00 INFO  utils.SeleniumDriver : 14 - [isElementVisible] Validation id element is present: [[EdgeDriver: msedge on MAC (63dd7006778d14103114d05ec02fb8c4)] -> class name: btn_action]
+2020-05-20 16:40:12 INFO  utils.SeleniumDriver : 11 - [click] Clicking on an Element: Login_Button
+2020-05-20 16:40:17 INFO  utils.SeleniumDriver : 108 - [waitForPageToLoad] Waiting for page to load
+2020-05-20 16:40:17 INFO  utils.SeleniumDriver : 16 - [tearDown] Hook After
+2020-05-20 16:40:17 INFO  utils.SeleniumDriver : 96 - [tearDown] Closing Browser
+2020-05-20 16:40:47 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-20 16:40:47 INFO  utils.SeleniumDriver : 39 - [initConfiguration] ############################### Launching Scenario execution ###############################
+2020-05-20 16:40:49 INFO  utils.SeleniumDriver : 55 - [initConfiguration] LaunchingEdge
+2020-05-20 16:41:06 INFO  utils.SeleniumDriver : 82 - [openPage] Opening site: https://www.saucedemo.com/
+2020-05-20 16:41:11 INFO  utils.SeleniumDriver : 108 - [waitForPageToLoad] Waiting for page to load

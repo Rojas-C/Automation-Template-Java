@@ -1,0 +1,102 @@
+2020-05-28 11:01:19 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:01:19 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:01:25 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:01:25 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:01:25 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:01:25 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:01:26 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:01:26 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:01:26 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:01:26 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:01:27 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:01:27 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:03:13 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:03:13 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:03:14 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:03:14 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:03:14 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:03:14 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:03:15 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:03:15 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:03:15 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:03:15 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:03:17 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:03:17 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:05:45 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:05:45 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:05:46 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:05:46 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:05:46 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:05:47 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:05:48 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:05:48 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:05:48 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:05:48 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:05:49 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:05:49 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:25:41 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:29:34 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:29:34 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:29:36 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:29:36 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:29:36 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:29:36 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:29:37 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:29:37 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:29:37 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:29:37 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:29:38 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:29:38 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:40:51 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:40:51 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:40:54 INFO  utils.SeleniumDriver : 39 - [initConfiguration] LaunchingFirefox
+2020-05-28 11:40:54 INFO  utils.SeleniumDriver : 56 - [initConfiguration] Window ->4294967297
+2020-05-28 11:40:54 INFO  utils.SeleniumDriver : 73 - [openPage] Accessing to the following site: https://www.saucedemo.com/
+2020-05-28 11:40:54 INFO  utils.SeleniumDriver : 74 - [openPage] Driver-> FirefoxDriver: firefox on MAC (d319f715-8e3b-044f-96fd-97ecb5c511f3)
+2020-05-28 11:40:56 INFO  utils.SeleniumDriver : 21 - [ReadTestData] Start reading Excel File
+2020-05-28 11:40:57 INFO  utils.SeleniumDriver : 61 - [ReadTestData] Finish reading Excel File
+2020-05-28 11:40:57 INFO  utils.SeleniumDriver : 10 - [type] Typing in an Element: User_Field entered value as: standard_user
+2020-05-28 11:40:57 INFO  utils.SeleniumDriver : 10 - [type] Typing in an Element: Password_Field entered value as: secret_sauce
+2020-05-28 11:40:59 INFO  utils.SeleniumDriver : 16 - [click] Clicking on an Element: Login_Button
+2020-05-28 11:41:04 INFO  utils.SeleniumDriver : 101 - [waitForPageToLoad] Waiting for page to load
+2020-05-28 11:41:04 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:41:04 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> false
+2020-05-28 11:41:06 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:41:06 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:41:08 INFO  utils.SeleniumDriver : 39 - [initConfiguration] LaunchingFirefox
+2020-05-28 11:41:09 INFO  utils.SeleniumDriver : 56 - [initConfiguration] Window ->4294967297
+2020-05-28 11:41:09 INFO  utils.SeleniumDriver : 73 - [openPage] Accessing to the following site: https://www.saucedemo.com/
+2020-05-28 11:41:09 INFO  utils.SeleniumDriver : 74 - [openPage] Driver-> FirefoxDriver: firefox on MAC (1cda1170-2756-ef4b-b438-4636e6206968)
+2020-05-28 11:41:11 INFO  utils.SeleniumDriver : 21 - [ReadTestData] Start reading Excel File
+2020-05-28 11:41:11 INFO  utils.SeleniumDriver : 61 - [ReadTestData] Finish reading Excel File
+2020-05-28 11:41:11 INFO  utils.SeleniumDriver : 10 - [type] Typing in an Element: User_Field entered value as: eeeeee
+2020-05-28 11:41:11 INFO  utils.SeleniumDriver : 10 - [type] Typing in an Element: Password_Field entered value as: secret_sauce
+2020-05-28 11:41:12 INFO  utils.SeleniumDriver : 16 - [click] Clicking on an Element: Login_Button
+2020-05-28 11:41:17 INFO  utils.SeleniumDriver : 101 - [waitForPageToLoad] Waiting for page to load
+2020-05-28 11:41:47 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:41:47 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> true
+2020-05-28 11:41:47 INFO  utils.SeleniumDriver : 10 - [setUp] ############################### Launching Scenario execution ###############################
+2020-05-28 11:41:47 INFO  utils.SeleniumDriver : 11 - [setUp] Hook Before
+2020-05-28 11:41:50 INFO  utils.SeleniumDriver : 39 - [initConfiguration] LaunchingFirefox
+2020-05-28 11:41:50 INFO  utils.SeleniumDriver : 56 - [initConfiguration] Window ->4294967297
+2020-05-28 11:41:50 INFO  utils.SeleniumDriver : 73 - [openPage] Accessing to the following site: https://www.saucedemo.com/
+2020-05-28 11:41:50 INFO  utils.SeleniumDriver : 74 - [openPage] Driver-> FirefoxDriver: firefox on MAC (d3f55d22-b89f-1243-a997-e856e7b33c6d)
+2020-05-28 11:41:51 INFO  utils.SeleniumDriver : 21 - [ReadTestData] Start reading Excel File
+2020-05-28 11:41:51 INFO  utils.SeleniumDriver : 61 - [ReadTestData] Finish reading Excel File
+2020-05-28 11:41:51 INFO  utils.SeleniumDriver : 10 - [type] Typing in an Element: User_Field entered value as: standard_user
+2020-05-28 11:41:51 INFO  utils.SeleniumDriver : 10 - [type] Typing in an Element: Password_Field entered value as: secret_sauce
+2020-05-28 11:41:52 INFO  utils.SeleniumDriver : 16 - [click] Clicking on an Element: Login_Button
+2020-05-28 11:41:57 INFO  utils.SeleniumDriver : 101 - [waitForPageToLoad] Waiting for page to load
+2020-05-28 11:41:57 INFO  utils.SeleniumDriver : 13 - [tearDown] Hook After
+2020-05-28 11:41:57 INFO  utils.SeleniumDriver : 14 - [tearDown] Scenario is failed? --> false
